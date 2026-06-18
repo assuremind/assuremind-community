@@ -58,8 +58,7 @@ Use the right category to get the fastest, most helpful response:
 | 🐛 [**Bug Reports**](../../discussions/categories/bug-reports) | Found something broken? Report it here |
 | 💬 [**General**](../../discussions/categories/general) | Open conversations, thoughts, feedback — anything goes |
 | 💡 [**Feature Requests**](../../discussions/categories/feature-requests) | Suggest ideas that could make AssureMind even better |
-| 🙋 [**Q&A / Help**](../../discussions/categories/q-a-help) | Stuck? Ask anything — the community & maintainers have your back |
-| 🎉 [**Show & Tell**](../../discussions/categories/show-and-tell) | Share your test setups, workflows, and wins built with AssureMind |
+| 🙋 [**Q&A**](../../discussions/categories/q-a-help) | Stuck? Ask anything — the community & maintainers have your back |
 | 🗳️ [**Polls**](../../discussions/categories/polls) | Vote on features, priorities, and decisions that shape AssureMind |
 
 ---
